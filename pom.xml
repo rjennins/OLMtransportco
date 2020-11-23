@@ -13,7 +13,7 @@
 	<artifactId>ships</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>OLMtransportco Ships Information</name>
-	<description>Interview Assignment for Intelligent Cargo Systems</description>
+	<description>Interview OLM Ships Demo</description>
 
 	<properties>
 		<java.version>1.8</java.version>
